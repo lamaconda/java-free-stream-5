@@ -1,3 +1,6 @@
+ 
+package ex3_ArithmeticOperations.Dmitry_Karachun;
+
 import java.util.Scanner;
 
 public class MathOperationsDemo {
