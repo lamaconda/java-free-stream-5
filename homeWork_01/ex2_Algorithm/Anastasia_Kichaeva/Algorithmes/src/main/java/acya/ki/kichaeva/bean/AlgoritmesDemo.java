@@ -5,8 +5,8 @@ public class AlgoritmesDemo {
         Animals[] animals = new Animals[5];
         animals[0] = new Cat("Cat");
         animals[1] = new Dog("Dog");
-        animals[2] = new Elephant("Elephant");
-        animals[3] = new Giraffe("Giraffe");
+        animals[2] = new Ferret("Ferret");//раньше тут был слон
+        animals[3] = new Python("Python");//а тут жираф, но так вышло, что жираф и слон это не повседневные объекты((
         animals[4] = new Parrot("Parrot");
 
         for (Animals animals1 : animals){

@@ -7,6 +7,6 @@ public class Parrot extends AbstractAnimals{
 
     @Override
     public void getPutSomeoneInTheFridge() {
-        System.out.println("\n Open the refrigerator;\n get a giraffe;\n put the parrot in the refrigerator;\n close the refrigerator.\n");
+        System.out.println("\n Open the refrigerator;\n get a python;\n put the parrot in the refrigerator;\n close the refrigerator.\n");
     }
 }
