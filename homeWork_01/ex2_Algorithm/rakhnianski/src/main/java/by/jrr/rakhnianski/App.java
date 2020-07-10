@@ -1,4 +1,4 @@
-package by.jrr.pitsukha;
+package by.jrr.rakhnianski;
 
 public class App {
     public static void main(String[] args) {
