@@ -14,7 +14,8 @@ public class Washing {
         closeAndPutTube();
         brushTeeth();
         washBrush();
-        washFaceAndRinseMouth();
+        washFace();
+        rinseMouth();
         turnOffWater();
         wipeFaceAndHands();
     }
@@ -67,8 +68,12 @@ public class Washing {
         System.out.println("Turned off the water");
     }
 
-    public void washFaceAndRinseMouth() {
-        System.out.println("Washed face and rinsed mouth");
+    public void washFace() {
+        System.out.println("Washed face");
+    }
+
+    public void rinseMouth() {
+        System.out.println("Rinsed mouth");
     }
 
     public void wipeFaceAndHands() {
