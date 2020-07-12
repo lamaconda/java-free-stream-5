@@ -7,6 +7,10 @@ package by.jrr.shelkovichilyaHw1Task1;
         radio();
         pencil();
         water();
+        banana();
+        bottle();
+        flowers();
+        fridge();
     }
     public static void candle(){
         System.out.println("Обьект - свеча");
