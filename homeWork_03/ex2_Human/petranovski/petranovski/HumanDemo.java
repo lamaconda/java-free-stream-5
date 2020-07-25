@@ -7,7 +7,7 @@ public class HumanDemo {
 
         HumanService humanService = new HumanService();
 
-        humanService.greet();
+        humanService.greet(new Human("Bob Marley", 40));
 
     }
 }
